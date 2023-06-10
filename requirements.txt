@@ -1,0 +1,15 @@
+transformers
+gensim
+openai
+rake-nltk
+openpyxl
+requests
+BeautifulSoup
+gdown
+matplotlib
+textblob
+dateutil
+re
+string
+nltk
+sklearn
