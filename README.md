@@ -1,2 +1,2 @@
 # ANLP_Retail_Crisis_Detection
-ANLP Retail Crisis Detection and Intelligent Response Generation
+ANLP Retail Crisis Detection and Intelligent Response Generation using GPT-3
